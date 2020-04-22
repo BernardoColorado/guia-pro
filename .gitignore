@@ -1,4 +1,4 @@
 app/config/config.json
 vendor/*
-./composer.lock
+composer.lock
 sql/*
